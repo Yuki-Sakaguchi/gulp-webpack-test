@@ -1,0 +1,19 @@
+{
+  "name": "gulp-webpack-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "init": "^0.1.2",
+    "npm": "^5.3.0"
+  },
+  "devDependencies": {
+    "gulp-plumber": "^1.1.0",
+    "gulp-webpack": "^1.5.0",
+    "jquery": "^1.11.3",
+    "webpack": "^3.4.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
